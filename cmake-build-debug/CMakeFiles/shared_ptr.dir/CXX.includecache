@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/maochongxin/Git/shared_ptr/src/main.cpp
+iostream
+-
+cstring
+-
+cstdlib
+-
+vector
+-
+shared_ptr.h
+/Users/maochongxin/Git/shared_ptr/src/shared_ptr.h
+unique_ptr.h
+/Users/maochongxin/Git/shared_ptr/src/unique_ptr.h
+
+/Users/maochongxin/Git/shared_ptr/src/shared_ptr.h
+cstddef
+-
+algorithm
+-
+
+/Users/maochongxin/Git/shared_ptr/src/unique_ptr.h
+cstddef
+-
+algorithm
+-
+
