@@ -1,5 +1,5 @@
 //
-// Created by 毛崇鑫 on 2019-04-25.
+// Created by 毛崇鑫
 //
 
 #ifndef _SHARED_PTR_H
